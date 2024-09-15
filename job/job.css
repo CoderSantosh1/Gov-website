@@ -99,7 +99,7 @@ body {
 }
 
 .content b {
-    color: red;
+    color:#ff1d58;
 }
 
 .container {
@@ -123,7 +123,7 @@ header h1 {
 }
 
 header h2 {
-    color: green;
+    color: #fff;
     font-size: 22px;
     margin: 5px 0;
 }
