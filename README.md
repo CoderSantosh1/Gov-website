@@ -41,17 +41,7 @@ This repository contains the codebase for the Sarkari Result website clone. Sark
 
 ## Installation
 
-1. Clone the repository:
 
-    ```bash
-    git clone https://github.com/liveupx/sarkar-result-website-clone.git
-    ```
-
-2. Navigate to the project directory:
-
-    ```bash
-    cd sarkar-result-website-clone
-    ```
 
 3. Install the dependencies:
 
