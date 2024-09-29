@@ -1,4 +1,4 @@
-# Sarkari Result Website Clone
+# Jobsplatform Website Clone
 
 This repository contains the codebase for the Sarkari Result website clone. Sarkari Result is a popular website in India for information related to government jobs, exam results, admit cards, and more. This clone aims to replicate the functionality and design of the original site.
 
